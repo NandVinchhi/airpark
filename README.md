@@ -1,8 +1,5 @@
 # AirPark
 
-__Figma__ - https://www.figma.com/file/ECKC1HMUVipUq6XIRO8MPf/AirPark?node-id=0%3A1
-
-__Demo video__ - https://youtu.be/BpPY4zTw2R0
 
 Have you ever been in a situation where you just cannot find parking, and your only option is to grudgingly check into a parking lot that costs $40 for a few hours? The sad truth is that when you are paying an exorbitant sum of money for a parking lot, thousands of personal parking spots are completely empty because their owners are not at home or in the office. Those days are now over. Introducing AirPark, a mobile platform for affordable and efficient sharing of personal parking lots. AirPark makes the process of  buying and renting personal parking spots EXTREMELY easy, time-efficient, and affordable. 
 
